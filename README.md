@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Online E-Commerce**
 
-- 🌱 I’m currently learning **Django Rest Framework.**
+- 🌱 I’m currently learning **Django Rest Framework, Token authentication**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
